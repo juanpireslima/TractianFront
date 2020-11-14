@@ -1,0 +1,23 @@
+*{
+  margin-top: 0;
+}
+@import '~antd/dist/antd.css';
+
+header {
+  width: 100vw;
+  height: 2.5vw;
+
+  display: flex;
+
+  color: blue;
+  background: rgb(0, 225, 255);
+}
+
+.Select {
+  color: blue;
+}
+
+header h1 {
+  margin-left: 40%;
+  margin-top: 0;
+}
